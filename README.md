@@ -120,8 +120,10 @@ $.ajax({
     });
 
 ```
-## 분석결과
-<a href='https://postimg.cc/7bVdF1Kq' target='_blank'><img src='https://i.postimg.cc/dtPFT4dZ/image.png' border='0' alt='image'/></a>
+##분석결과
+
+<a href='https://postimg.cc/7bVdF1Kq' target='_blank'><img src='https://i.postimg.cc/7bVdF1Kq/image.png' border='0' alt='image'/></a>
+
 개발순서
 1. 소스수정
 2. 소스 저장

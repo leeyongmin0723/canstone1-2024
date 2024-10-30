@@ -121,8 +121,7 @@ $.ajax({
 
 ```
 ##분석결과
-
-<a href='https://postimg.cc/7bVdF1Kq' target='_blank'><img src='https://i.postimg.cc/7bVdF1Kq/image.png' border='0' alt='image'/></a>
+<a href='https://ifh.cc/v-zwjcr5' target='_blank'><img src='https://ifh.cc/g/zwjcr5.jpg' border='0'></a>
 
 개발순서
 1. 소스수정
